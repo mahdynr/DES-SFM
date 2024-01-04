@@ -45,7 +45,7 @@ pip install numpy pygame sumpy random sys math config typing time pygame.draw Ma
 To run the program, navigate to the project directory and execute the following command in your terminal:
 
 ```bash
-python simulation1.py
+python simulation2.py
 ```
 
 This will launch the simulation, visualizing the construction process and worker movements. The simulation will run for a specified number of iterations.
