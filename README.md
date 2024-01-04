@@ -1,6 +1,6 @@
 # DES-SFM
 ## Author
-[Mahdi Naeimi Rad]
+[Mahdi Naeimi Rad- mahdy.naeimyrad@gmail.com]
 
 ## Version
 1.0
