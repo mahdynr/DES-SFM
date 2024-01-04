@@ -13,7 +13,7 @@ This program simulates the process of building interior walls in a building usin
 
 ## Key Features
 
-* **Work Process Modeling:** DES is utilized to model the sequential steps involved in the wall building process, including task duration, resource requirements, and dependencies.
+* **Work Process Modeling:** DES is utilized to model the sequential steps involved in the wall-building process, including task duration, resource requirements, and dependencies.
 
 * **Dynamic Workspace and Worker Movement:** SFM is employed to simulate the real-time movement of workers within the workspace, considering their interactions and the resulting congestion.
 
@@ -24,7 +24,15 @@ This program simulates the process of building interior walls in a building usin
 The only requirement is a working installation of Python 3.x. Additionally, you'll need to install the following libraries:
 
 * Numpy
-
+* pygame
+* sumpy
+* random
+* sys
+* math
+* config
+* typing
+* time
+* pygame.draw
 * Matplotlib
 
 To install these dependencies, use the following command in your terminal:
